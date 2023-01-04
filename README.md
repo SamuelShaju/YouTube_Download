@@ -1,4 +1,4 @@
-### Download Youtube Videos as .mp3 files
+# Download Youtube Videos as .mp3 files
 
 You can download any youtube video you want as an .mp3 file using the function provided in the Link_to_mp3.py file.
 
